@@ -1,4 +1,10 @@
-# Exercise to Book Chapter mapping
+# About TRB x Rustlings
+
+A workbench repo for the official [Rustlings](https://rustlings.rust-lang.org/) project working with [The Rust Book (TRB)](https://doc.rust-lang.org/stable/book/) in parallel.
+
+---
+
+## Exercise to Book Chapter mapping
 
 | Exercise        | Book Chapter |
 | --------------- | ------------ |
@@ -25,3 +31,5 @@
 | macros          | §19.5        |
 | clippy          | §21.4        |
 | conversions     | n/a          |
+
+---
